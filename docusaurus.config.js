@@ -68,7 +68,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/GitDataAI/blog',
             label: 'GitHub',
             position: 'right',
           },
