@@ -1,6 +1,6 @@
 ---
-slug: long-blog-post
-title: Long Blog Post
+slug: 【翻译】什么是以数据为中心的AI工程?
+title: 【翻译】什么是以数据为中心的AI工程?
 authors: taoshengshi
 tags: [数据, AI工程]
 ---
