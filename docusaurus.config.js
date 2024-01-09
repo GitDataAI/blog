@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'GitData AI Working Group',
-  tagline: 'Dinosaurs are cool',
+  title: 'Building Automatic and Efficient ML pipeline for Data-Centric AI',
+  tagline: 'Reinvent MLOps and accelerate AI democratization',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
