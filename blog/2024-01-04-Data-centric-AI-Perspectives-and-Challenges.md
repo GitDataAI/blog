@@ -1,6 +1,6 @@
 ---
 slug: Data-centric-AI-Perspectives-and-Challenges
-title: 【翻译】以数据为中心的AI：前景和挑战
+title: 【翻译】以数据为中心的AI:前景和挑战
 authors: taoshengshi
 tags: [以数据为中心的AI, 前景, 挑战]
 ---
@@ -9,8 +9,6 @@ tags: [以数据为中心的AI, 前景, 挑战]
 原文：
 Data-centric AI: Perspectives and Challenges
 https://arxiv.org/pdf/2301.04819.pdf
-
-以数据为中心的人工智能:前景和挑战
 
 数据在构建AI系统中的作用最近被新兴的以数据为中心的AI(DCAI)概念大大放大，该概念主张从模型改进到确保数据质量和可靠性的根本转变。虽然我们的社区在不同方面不断投入努力来增强数据，但它们往往是针对特定任务的孤立举措。为了促进我们社区的集体行动，推动DCAI的发展，我们制定了一个大蓝图，并将三个主要任务结合在一起：训练数据开发、推理数据开发和数据维护。我们提供了关于代表性DCAI任务的顶级讨论，并分享了观点。最后，我们列出了开放的挑战。更多的资源总结在[作者的GitHub](https://github.com/daochenzha/data-centric-AI)中。
 
