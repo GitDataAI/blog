@@ -9,6 +9,8 @@ authors:
 tags: [GitData, Mission, Vision, Value]
 ---
 
+# 【原创】GitData的使命、愿景、价值观
+
 ## Mission
 Building Automatic and Efficient ML pipeline for Data-Centric AI
 
