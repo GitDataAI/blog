@@ -1,6 +1,6 @@
 ---
 slug: Quality-Driven-Data-Manifesto
-title: 质量驱动数据宣言
+title: 【翻译】质量驱动数据宣言
 authors: taoshengshi
 tags: [数据质量, 好数据]
 ---

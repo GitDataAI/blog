@@ -1,6 +1,6 @@
 ---
 slug: GitData-Mission-Vision-Value
-title: GitData的使命、愿景、价值观
+title: 【原创】GitData的使命、愿景、价值观
 authors:
   name: GitData
   title: GitData Core Team

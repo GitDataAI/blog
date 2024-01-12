@@ -59,12 +59,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/gitdata-social-card.png',
       navbar: {
         title: 'GitData Blog',
         logo: {
           alt: 'GitData Logo',
-          src: 'img/docusaurus.png',
+          src: 'img/gitdata.png',
         },
         items: [
           {

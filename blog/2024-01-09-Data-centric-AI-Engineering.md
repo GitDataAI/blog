@@ -1,6 +1,6 @@
 ---
 slug: Data-centric-AI-Engineering
-title: 如何理解数据为中心的AI工程？
+title: 【翻译】如何理解以数据为中心的AI工程？
 authors: taoshengshi
 tags: [数据, AI工程]
 ---
