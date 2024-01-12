@@ -1,6 +1,6 @@
 ---
 slug: Data-centric-AI-Perspectives-and-Challenges
-title: 【翻译】以数据为中心的AI:前景和挑战
+title: 【翻译】以数据为中心的AI：前景和挑战
 authors: taoshengshi
 tags: [以数据为中心的AI, 前景, 挑战]
 ---

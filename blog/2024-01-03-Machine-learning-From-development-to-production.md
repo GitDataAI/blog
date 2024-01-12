@@ -1,6 +1,6 @@
 ---
 slug: Machine-learning-From-development-to-production
-title: 【转载】机器学习:从开发到上线
+title: 【转载】机器学习：从开发到上线
 authors: [taoshengshi]
 tags: [机器学习]
 ---
