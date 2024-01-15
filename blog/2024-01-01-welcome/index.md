@@ -1,8 +1,8 @@
 ---
 slug: welcome
-title: Welcome
+title: 【原创】欢迎加入GitData社区！
 authors: [taoshengshi]
-tags: [data versioning, hello]
+tags: [GitData, 社区]
 ---
 
 [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
@@ -18,7 +18,7 @@ The blog post date can be extracted from filenames, such as:
 
 A blog post folder can be convenient to co-locate blog post images:
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+![GitData](../img/data-centric.png)
 
 The blog supports tags as well!
 
