@@ -5,7 +5,7 @@ authors: [taoshengshi]
 tags: [机器学习]
 ---
 
-# 【转载】机器学习：从开发到上线
+# 【转载】机器学习:从开发到上线
 原文：
 机器学习：从开发到上线
 https://mp.weixin.qq.com/s/KTMKYXAv0csH45LANXpf9g
