@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: gitdata-ai-blog-deployment
+  labels:
+    apptype: gitdata-ai-blog
+spec:
+  replicas: {{ .Values.replicas}}
+  selector:
+    matchLabels:
+      app: gitdata-ai-blog
+  template:
+    metadata:
+      labels:
+        app: gitdata-ai-blog
+        apptype: gitdata-ai-blog
+        date: "{{ now | unixEpoch }}"
+    spec:
+      containers:
+        - name: gitdata-ai-blog
+          image: gitdatateam/gitdata-ai-blog:{{ .Values.tag }}
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 80
